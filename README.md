@@ -1,5 +1,3 @@
-![](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
-
 <h1 align="center">Hi, I'm Jonathan Maya</h1>
 <h3 align="center">A frontend, mobile developer and technology enthusiast from Mexico 🇲🇽</h3>
 
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yony55&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="yony55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yony55&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="yony55" /></p>
+
+![](https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif)
