@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **React, Bootstrap, TypeScript, Next.js**
 
-- 💼 All of my projects are available at [https://github.com/Yony55](https://github.com/Yony55)
+- 💼 All of my projects are available at [GitHub](https://github.com/Yony55)
 
 - 💬 Ask me about **C++, Kotlin**
 
