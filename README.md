@@ -7,11 +7,13 @@
 
 - 💼 All of my projects are available at [https://github.com/Yony55](https://github.com/Yony55)
 
-- 💬 Ask me about **C++, Kotlin, HTML**
+- 💬 Ask me about **C++, Kotlin**
 
 - 📫 How to reach me **jonathan@yony55.com**
 
-- 🎧 Fact **Can't live without music**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1V0NF7X7-s5nzTqOjSKEHEO_4zRxaEj5Z/view?usp=sharing)
+
+- 🎧 Fact: **I can't live without music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
