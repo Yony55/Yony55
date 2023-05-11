@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jonathan@yony55.com**
 
-- 🎧 Fact **Can't live without music**
+- 🎧 Fact: ** I Can't live without music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
