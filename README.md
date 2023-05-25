@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **C++, Kotlin**
 
-- 📫 How to reach me **jonathan@yony55.com**
-
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1V0NF7X7-s5nzTqOjSKEHEO_4zRxaEj5Z/view?usp=sharing)
 
 - 🎧 Fact: **I can't live without music**
