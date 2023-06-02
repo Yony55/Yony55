@@ -7,7 +7,7 @@
 
 - 💼 All of my projects are available at [GitHub](https://github.com/Yony55)
 
-- 💬 Ask me about **C++, Kotlin**
+- 💬 Ask me about **C++, Kotlin, JavaScript**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1V0NF7X7-s5nzTqOjSKEHEO_4zRxaEj5Z/view?usp=sharing)
 
