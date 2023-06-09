@@ -3,7 +3,7 @@
 
 - 🧑🏾‍💻 I’m currently working on [Kanban Star](https://github.com/Brandon-Rivera/Kanban-Star)
 
-- 📚 I’m currently learning **React, Bootstrap, TypeScript, Next.js**
+- 📚 I’m currently learning **TypeScript, Next.js**
 
 - 💼 All of my projects are available at [GitHub](https://github.com/Yony55)
 
